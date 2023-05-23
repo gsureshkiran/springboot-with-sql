@@ -10,8 +10,8 @@
 	</parent>
 	<groupId>com.jtspringproject</groupId>
 	<artifactId>JtSpringProject</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>JtSpringProject</name>
+	<version>0.0.1</version>
+	<name>myapp</name>
 	<description>Spring project for Java Technology</description>
 	<properties>
 		<java.version>11</java.version>
