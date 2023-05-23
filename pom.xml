@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.jtspringproject</groupId>
-	<artifactId>JtSpringProject</artifactId>
+	<artifactId>JtSpringProject.war</artifactId>
 	<version>0.0.1</version>
 	<name>myapp</name>
 	<description>Spring project for Java Technology</description>
